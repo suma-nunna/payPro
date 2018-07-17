@@ -1,0 +1,4 @@
+.container {
+    width: 50%;
+    min-width: calc(100% - 150px);
+}
