@@ -8,12 +8,12 @@ export const environment = {
 
 export const firebaseConfig = {
   firebaseDetails: {
-    apiKey: "AIzaSyCvfqvLwxbsd3vjGv9_0TFaYcN4raz1iw0",
-    authDomain: "sample-pro-1b70a.firebaseapp.com",
-    databaseURL: "https://sample-pro-1b70a.firebaseio.com",
-    projectId: "sample-pro-1b70a",
-    storageBucket: "sample-pro-1b70a.appspot.com",
-    messagingSenderId: "294266875928"
+    apiKey: "************",
+    authDomain: "************",
+    databaseURL: "************",
+    projectId: "************",
+    storageBucket: "************",
+    messagingSenderId: "************"
   }
 }
 
